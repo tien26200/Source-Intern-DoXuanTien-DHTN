@@ -1,0 +1,10 @@
+.badge-Cart{
+    position:absolute;
+    
+}
+/* style={{ left: "-287px", width: "348px", top: "45px" }} */
+.cart-Preview{
+  
+    padding: 10px 0 10px 0;
+}
+

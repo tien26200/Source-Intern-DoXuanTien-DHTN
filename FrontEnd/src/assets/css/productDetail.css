@@ -1,0 +1,25 @@
+.container{
+    margin-Top: "75px";
+}
+.title{
+    text-align: center;
+    padding: 0 0 10px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+.info{
+    padding: 5px 0 5px 0;
+}
+.price{
+    padding: 5px 0 5px 0 ;
+}
+.btnAdd{
+    padding: 10px 10px 10px 10px;
+    margin-Top: 20px;
+}
+@media only screen and (max-width:46.1875em){
+    /* .container{
+       
+        display:none;
+    } */
+}
